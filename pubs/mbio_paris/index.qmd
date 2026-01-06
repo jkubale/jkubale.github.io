@@ -1,0 +1,11 @@
+---
+author: Kubale, J and Gleason, C et al.
+date: 2022-08-23
+title: "SARS-CoV-2 Spike-Binding Antibody Longevity and Protection from Reinfection with Antigenically Similar SARS-CoV-2 Variants"
+image: "mbio_paris_fig2.png"
+---
+
+
+::: column-body-outset
+[<button type="button" class="btn btn-outline-dark mb-2">PubMed</button>](https://pubmed.ncbi.nlm.nih.gov/35997286/) [<button type="button" class="btn btn-outline-dark mb-2">PDF</button>](mbio_paris.pdf)
+:::
