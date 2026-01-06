@@ -1,5 +1,5 @@
 ---
-author: Kubale, J et al.
+author: Noppert, GA; Kubale, J; Wilson M et al.
 date: 2016-10-31
 title: "Analyses of infectious disease patterns and drivers largely lack insights from social epidemiology: contemporary patterns and future opportunities"
 image: "Figure 3B.png"

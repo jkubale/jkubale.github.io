@@ -1,5 +1,5 @@
 ---
-author: Kubale, J et al.
+author: Kubale, J and Balmaseda, A et al.
 date: 2022-06-27
 title: "Association of SARS-CoV-2 Seropositivity and Symptomatic Reinfection in Children in Nicaragua"
 image: "titer_sbs.svg"

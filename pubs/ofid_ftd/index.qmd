@@ -1,5 +1,5 @@
 ---
-author: Kubale, J et al.
+author: Kubale, J and Kujawski, S et al.
 date: 2023-11-16
 title: "Etiology of Acute Lower Respiratory Illness Hospitalizations Among Infants in 4 Countries"
 image: "figure3.png"

@@ -1,5 +1,5 @@
 ---
-author: Kubale, J et al.
+author: Smith, M and Kubale, J et al.
 date: 2022-11-8
 title: "Respiratory Syncytial Virus Incidence and Severity in a Community-Based Prospective Cohort of Children Aged 0-14 Years"
 image: "figure2.png"
