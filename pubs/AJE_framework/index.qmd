@@ -2,7 +2,7 @@
 author: Noppert, GA; Hegde, ST; Kubale, J
 date: 2022-10-18
 title: "Exposure, Susceptibility, and Recovery: A Framework for Examining the Intersection of the Social and Physical Environments and Infectious Disease Risk"
-image: "Color AJE-01371-2021 Kubale Figure 2.png"
+image: "color_aje_Figure_2.png"
 ---
 
 ::: column-body-outset
