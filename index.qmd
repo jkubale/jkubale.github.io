@@ -6,6 +6,8 @@ about:
   links: 
     - text: "{{< iconify simple-icons bluesky >}}"
       href: https://bsky.app/profile/johnkubale.bsky.social
+    - icon: linkedin
+      href: https://www.linkedin.com/in/john-kubale-382120b4/
     - icon: github
       href: https://github.com/jkubale
     - icon: journal-text
